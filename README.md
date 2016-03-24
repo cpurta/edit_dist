@@ -1,4 +1,4 @@
-# go-edit
+# edit_dist
 
 A simple package that provides two functions that will compute the minimum edit distance, and
 weighted edit distance between two strings.
