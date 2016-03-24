@@ -3,6 +3,10 @@
 A simple package that provides two functions that will compute the minimum edit distance, and
 weighted edit distance between two strings.
 
+This algorithm currently uses *Levenshtein* distance
+which counts the operation of substitution as 2. More info on minimum edit distance can be found
+[here](https://en.wikipedia.org/wiki/Edit_distance)
+
 ## Usage
 
 ```go
