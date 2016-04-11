@@ -1,6 +1,6 @@
 // Package go-edit provides the algorithms needed to compute the minimum edit distance and
 // weigthed edit distance between two strings.
-package go_edit
+package edit_edit
 
 import (
     "math"

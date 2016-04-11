@@ -1,4 +1,4 @@
-package go_edit
+package edit_dist
 
 import (
     "testing"
